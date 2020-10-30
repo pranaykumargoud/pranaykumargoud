@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/pranaykumargoud/pranaykumargoud)](#)
+[![Visits Badge](https://badges.pufler.dev/visits/pranaykumargoud/pranaykumargoud)](#)
 [![Repos Badge](https://badges.pufler.dev/repos/pranaykumargoud)](https://github.com/pranaykumargoud?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/pranaykumargoud)](https://gist.github.com/pranaykumargoud)
--->
+
 <p >
  <a target="_blank"href="https://medium.com/@pranaykumargoud"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 <a target="_blank"href="https://twitter.com/code__vampire"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
