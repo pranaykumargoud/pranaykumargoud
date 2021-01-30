@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  ## Github stats
 
-<img align="left" alt="pranaykumargoud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pranaykumargoud&show_icons=true&hide_border=true" />
+<img align="left" alt="pranaykumargoud's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pranaybathini&show_icons=true&hide_border=true" />
 
 
  ## Connect with me
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="pranaykumargoud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
-[website]: https://pranaykumargoud.github.io/
+[website]: https://pranaybathini.github.io/
 [twitter]: https://twitter.com/code__vampire
 [instagram]: https://www.instagram.com/pranay.artisan/
 [linkedin]: https://www.linkedin.com/in/pranaykumargoud/
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <br/>
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/pranaykumargoud/pranaykumargoud)](https://github.com/pranaykumargoud/praaykumargoud)-->
-[![Repos Badge](https://badges.pufler.dev/repos/pranaykumargoud)](https://github.com/pranaykumargoud?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/pranaykumargoud)](https://gist.github.com/pranaykumargoud)
+[![Repos Badge](https://badges.pufler.dev/repos/pranaybathini)](https://github.com/pranaybathini?tab=repositories)
+[![Gists Badge](https://badges.pufler.dev/gists/pranaybathini)](https://gist.github.com/pranaybathini)
 
 <p >
  <a target="_blank"href="https://medium.com/@pranaykumargoud"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
